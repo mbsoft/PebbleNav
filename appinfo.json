@@ -1,0 +1,28 @@
+{
+  "uuid": "d8e3b482-9a67-4e92-a63e-f1b1b36c6411",
+  "shortName": "NB.ai Navigation",
+  "longName": "NB.ai Navigation",
+  "companyName": "NextBillion.ai",
+  "versionCode": 2,
+  "versionLabel": "2.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "TRAVEL_TIMESTAMP_KEY": 3,
+    "TRAVEL_DURATION_KEY": 2,
+    "TRAVEL_DISTANCE_KEY": 1,
+    "TRAVEL_ICON_KEY": 0
+  },
+  "resources": {
+    "media": [
+ 
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+    "chalk"
+  ],
+  "sdkVersion": "3"
+}
